@@ -4,7 +4,7 @@
 
 Thanks to Latent Dirichlet Allocation and the ADWIN Algorithm, we realize topic modeling and concept drift detection among a corpus.
 
-This project was coded by Lucas Maison and [Antoine Moulin](https://github.com/moulinantoine/), students at Télécom ParisTech, under the supervision of [Pierre-Alexandre Murena](https://perso.telecom-paristech.fr/pamurena/) and [Marie Al-Ghossein](https://scholar.google.com/citations?user=0VrHhpwAAAAJ&hl=en).
+This project was coded by Lucas Maison and [Antoine Moulin](https://github.com/moulinantoine/), students at Télécom Paris, under the supervision of [Pierre-Alexandre Murena](https://perso.telecom-paristech.fr/pamurena/) and [Marie Al-Ghossein](https://scholar.google.com/citations?user=0VrHhpwAAAAJ&hl=en).
 
 There are several types of files in this project :
 * The GUI file (<tt>gui.py</tt>), which contains a Python program to run a GUI
